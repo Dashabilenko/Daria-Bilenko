@@ -7,6 +7,10 @@
    }
 
 div{outline: 1px solid black;}
+span {
+    color: blueviolet;
+    font-size: 35px;
+}
 
 .grid1{
     display: grid;
